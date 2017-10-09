@@ -1,0 +1,17 @@
+/* Empty. Add your own CSS if you like */
+.icon {
+   width: 2.5rem;
+   height: 2.5rem;
+   vertical-align: -0.15em;
+   fill: currentColor;
+   overflow: hidden;
+   position: absolute;
+   left: 1rem;
+}
+
+.copyBtn{
+  position: absolute;
+  bottom: 1.5rem;
+  right: 1rem;
+  width: 5rem;
+}
